@@ -1,6 +1,6 @@
-# Project3
+# Project 3
 
-## Prediction of the number of hosts per Airbnb in NYC
+## Prediction of the number of travelers per Airbnb in NYC
 
 Since 2008, Airbnb has been changing the way we travel around the world by offering solutions to stay in homestay accommodations. As one of the most visited cities in the world, New York City has plenty of accommodation to book through Airbnb. 
 
