@@ -10,4 +10,4 @@ Since 2008, Airbnb has been changing the way we travel around the world by offer
 
 - The file "NYC-Airbnb.ipynb" gathers all the code.
 
-- The file "NYC_airbnb_project.pdf" is a presentation of the project spread over a few slides.
+- The file "NYC_airbnb_presentation.pdf" is a presentation of the project spread over a few slides.
