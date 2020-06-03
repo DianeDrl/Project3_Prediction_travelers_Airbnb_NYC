@@ -1,10 +1,10 @@
 # Project 3
 
-## Prediction of the number of travelers per Airbnb in NYC
+## Airbnb New York City Project – Price prediction
 
 Since 2008, Airbnb has been changing the way we travel around the world by offering solutions to stay in homestay accommodations. As one of the most visited cities in the world, New York City has plenty of accommodation to book through Airbnb. 
 
-### The purpose of this project is to construct a model with machine learning to predict the number of travelers per Airbnb in New York City considering the neighborhood, the room type, the price, the number of reviews, the availability. 
+### The purpose of this project is to build a model with machine learning to predict the price of accommodations booked in Airbnb in New York City depending the neighborhood, the property type, the room type, the number of reviews, the availability, the cancellation policy, the host listings count…
 
 - The file "Project 3 Report.pdf" reports the whole process including the problem statement, the data collection, a wrangling summary, an exploratory data analysis summary with visualization & the results of the final analysis using machine learning.
 
